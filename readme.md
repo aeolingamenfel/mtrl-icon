@@ -1,5 +1,7 @@
 # mtrl-icon Custom Element
 
+[![npm version](https://badge.fury.io/js/mtrl-icon.svg)](https://badge.fury.io/js/mtrl-icon)
+
 **Material Icons Version:** v31
 
 Vanilla custom element that displays
